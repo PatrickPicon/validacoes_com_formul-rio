@@ -1,13 +1,26 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+<h1 align="center"> MoniBank </h1>
 
-<hr>
+<p align="center">
+Um projeto com o intuito de treinar validações de formulário,
+criando validações customizadas para cada campo
+</p>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+<br>
 
-## Tecnologias utilizadas durante o curso
-* JavaScript
+<p align="center">
+  <img alt="Alura Midi" src=".github/preview.jpg" width="100%">
+</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+## ✔ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+O projeto simula a criação de conta em um banco ficticio.
+
+- [Visite o projeto online] (https://patrickpicon.github.io/validacoes_com_formulario/)
